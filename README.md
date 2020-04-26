@@ -1,5 +1,5 @@
 # DeOldify_2020
 
 ## Examples:
-[Original PU YI](./China Qing Pictures/PU YI 2.jpg)
-[Colourised PU YI](./China Qing Pictures/output_PU YI 2.jpg)
+[Original PU YI](https://github.com/thomashsia/DeOldify_2020/blob/master/China%20Qing%20Pictures/PU%20YI%202.jpg?raw=true)
+[Colourised PU YI](https://github.com/thomashsia/DeOldify_2020/blob/master/China%20Qing%20Pictures/output_PU%20YI%202.jpg?raw=true)
